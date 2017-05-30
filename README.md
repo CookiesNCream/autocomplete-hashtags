@@ -8,5 +8,5 @@
 6. The Autocomplete Widget will be updated and contents reflected.
 7. Do step 5 to see the Autocomplete - Mentions, Autocomplete - Relations, and Autocomplete Mentions and Pure Hashtags in action. 
 
-# LICENSE
-[See License]()
+# License
+[See LICENSE]()
