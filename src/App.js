@@ -8,7 +8,7 @@ import { EditorState } from 'draft-js'; /* To display content created, selection
 import Editor, { createEditorStateWithText } from 'draft-js-plugins-editor'; // eslint-disable-line import/no-unresolved /* To render snapshots of data, accepts placeholder text, enables spell check, and allows the use of editor plugins amongst many other types of data */
 
 import createMentionPlugin, { defaultSuggestionsFilter } from 'draft-js-mention-plugin'; // eslint-disable-line import/no-unresolved
-import editorStyles from './editorStyles.css';
+import editorStyles from './editorStyles.css'; 
 import hashtags from './hashtags';
 
 const text = '#hashtag I am having a blast! This is so awesome and cool! :D';

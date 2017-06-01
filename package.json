@@ -4,6 +4,7 @@
   "private": true,
   "devDependencies": {
     "css-loader": "^0.28.4",
+    "gh-pages": "^1.0.0",
     "react-scripts": "1.0.7",
     "style-loader": "^0.18.1"
   },
